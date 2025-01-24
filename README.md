@@ -8,7 +8,7 @@ Statistical operations using Numpy
 
 **Installation:**
 
-git clone https://github.com/yourusername/numpy-essentials.git
+git clone repository link
 cd numpy-essentials
 
 **Usage:** 
